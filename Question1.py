@@ -29,5 +29,3 @@ UnboundLocalError: local variable 'b' referenced before assignment
 
         
         
-'''
-'''
