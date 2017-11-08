@@ -8,8 +8,15 @@ if seconds:
 else:
     print('Done!')
 
-
+'''
 A. Wait 10 seconds
 B. Wait -10 seconds
 C. Done!
 D. SyntaxError
+'''
+
+
+
+'''
+Wait 10 seconds
+'''
